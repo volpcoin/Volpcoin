@@ -8,6 +8,8 @@ Volpcoin is an experimental new digital currency. It was specifically designed w
 
 Algo type: X14 HBE - Hybrid Bitcoin / Ethereum
 
+Premine: 102000000 VCP  (10.2%)
+
 Rpc Port : 30450138
 
 P2P Port : 30460130

@@ -14,6 +14,8 @@ P2P Port : 30460130
 
 Total supply: 1Bilion coins
 
+Version: v1.0.0.0 beta
+
 
 * [Website](http://volpcoin.eu/) -- Soon
 

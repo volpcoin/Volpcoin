@@ -35,3 +35,13 @@ Installation
 ===========================
 
 Please see details in [Wiki](https://github.com/volpcoin/Volpcoin/wiki/Installation) section
+
+Attention :
+===========================
+
+Dear users of the Qt-Volpcoin Windows Wallet,
+
+Due to the incompatibility of some scripts in the implementation of the Volpcoin protocol, we decided to replace the Windows Qt-Volpcoin, listed in github by the beta version of the VCP Web Wallet.
+
+Web Wallet : https://wallet.volpcoin.eu/
+
